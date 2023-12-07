@@ -1,0 +1,523 @@
+[Root]
+Most Recent Package=Standard Setup Package 1 CIP
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+SSCSDK80.DLL=
+Crystal=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINNT\SYSTEM32\crviewer.dll=
+C:\WINNT\SYSTEM32\craxdrt.dll=
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\Mscomctl.ocx=
+C:\WINNT\SYSTEM32\crpe32.dll=
+C:\WINNT\SYSTEM32\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=Yes
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=Yes
+C:\WINNT\SYSTEM32\scrrun.dll=Yes
+C:\WINNT\SYSTEM32\Msvcrt.dll=Yes
+C:\WINNT\SYSTEM32\craxdrt.dll=Yes
+C:\WINNT\SYSTEM32\crviewer.dll=Yes
+C:\WINNT\SYSTEM32\Crystl32.OCX=Yes
+C:\WINNT\SYSTEM32\crpe32.dll=Yes
+C:\WINNT\SYSTEM32\Implode.dll=Yes
+C:\WINNT\SYSTEM32\Crpaig80.dll=Yes
+C:\WINNT\SYSTEM32\MFC42.DLL=Yes
+C:\WINNT\Crystal\Crxlat32.dll=Yes
+C:\WINNT\Crystal\p2bbde.dll=Yes
+C:\WINNT\SYSTEM32\P2bbnd.dll=Yes
+C:\WINNT\SYSTEM32\p2bdao.dll=Yes
+C:\WINNT\Crystal\p2bxbse.dll=Yes
+C:\WINNT\SYSTEM32\p2ctdao.dll=Yes
+C:\WINNT\SYSTEM32\p2irdao.dll=Yes
+C:\WINNT\Crystal\p2sifmx.dll=Yes
+C:\WINNT\SYSTEM32\P2smon.dll=Yes
+C:\WINNT\SYSTEM32\p2sodbc.dll=Yes
+C:\WINNT\Crystal\p2sora7.dll=Yes
+C:\WINNT\Crystal\p2ssql.dll=Yes
+C:\WINNT\Crystal\p2ssyb10.dll=Yes
+C:\WINNT\Crystal\p2soledb.dll=Yes
+C:\WINNT\Crystal\u2ddisk.dll=Yes
+C:\WINNT\Crystal\u2dmapi.dll=Yes
+C:\WINNT\Crystal\u2dnotes.dll=Yes
+C:\WINNT\Crystal\u2dpost.dll=Yes
+C:\WINNT\Crystal\u2dvim.dll=Yes
+C:\WINNT\Crystal\u2dapp.dll=Yes
+C:\WINNT\Crystal\u2fcr.dll=Yes
+C:\WINNT\Crystal\u2fhtml.dll=Yes
+C:\WINNT\Crystal\u2fodbc.dll=Yes
+C:\WINNT\Crystal\u2frec.dll=Yes
+C:\WINNT\Crystal\u2frtf.dll=Yes
+C:\WINNT\Crystal\u2fsepv.dll=Yes
+C:\WINNT\Crystal\u2ftext.dll=Yes
+C:\WINNT\Crystal\u2fwks.dll=Yes
+C:\WINNT\Crystal\u2fwordw.dll=Yes
+C:\WINNT\Crystal\u2fxls.dll=Yes
+C:\WINNT\Crystal\u25dts.dll=Yes
+C:\WINNT\SYSTEM32\u25store.dll=Yes
+C:\WINNT\SYSTEM32\u25total.dll=Yes
+C:\WINNT\Crystal\u2l2000.dll=Yes
+C:\WINNT\SYSTEM32\u2lbar.dll=Yes
+C:\WINNT\Crystal\u2lcom.dll=Yes
+C:\WINNT\Crystal\u2ldts.dll=Yes
+C:\WINNT\Crystal\u2lsamp1.dll=Yes
+C:\WINNT\Crystal\u252000.dll=Yes
+C:\WINNT\SYSTEM32\msflxgrd.ocx=Yes
+C:\WINNT\SYSTEM32\Mscomctl.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Msvcrt.dll=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\craxdrt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\crviewer.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Crystl32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\crpe32.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Implode.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Crpaig80.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MFC42.DLL=$(WinSysPath)
+C:\WINNT\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\P2bbnd.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\P2smon.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\u25store.dll=$(AppPath)
+C:\WINNT\SYSTEM32\u25total.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\msflxgrd.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Claim.CAB
+DepCabRun=Claim.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+ProjectFolder=\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+ServerSideCab=
+File1=\\500ip03\vol2\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+sscsdk80.dll=D:\Program Files\InstallShield\InstallShield Professional 6.2\Objects\Crystal Reports 8\Data\Crystal\sscsdk80.dll
+
+[Package|Dep File 2|Files Released]
+
+[Package|Dep File 2|Missing Dependency Information]
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=
+C:\WINDOWS\SYSTEM32\craxdrt.dll=
+C:\Program Files\Common Files\System\ADO\msado25.tlb=
+C:\WINDOWS\SYSTEM32\crviewer.dll=
+C:\WINDOWS\SYSTEM32\Vsflex7L.ocx=
+C:\WINDOWS\SYSTEM32\CpbOcx.ocx=
+C:\WINDOWS\SYSTEM32\shfolder.dll=
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\Mscomctl.ocx=
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+
+[Package|Dep File 2|Files Added]
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=Yes
+C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\shfolder.dll=Yes
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM32\CpbOcx.ocx=Yes
+C:\WINDOWS\SYSTEM32\Vsflex7L.ocx=Yes
+C:\WINDOWS\SYSTEM32\crviewer.dll=Yes
+C:\WINDOWS\SYSTEM32\msmask32.ocx=Yes
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=Yes
+C:\Program Files\Common Files\System\ADO\msado25.tlb=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM32\msvcrt.dll=Yes
+C:\WINDOWS\SYSTEM32\craxdrt.dll=Yes
+C:\Program Files\ListPro3\BIN\Flp32a30.ocx=Yes
+C:\WINDOWS\SYSTEM32\atl.dll=Yes
+C:\Program Files\Inppro30\BIN\Edt32x30.ocx=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 2|Install Locations]
+K:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Implode.dll=$(AppPath)
+C:\WINNT\SYSTEM32\Crpaig80.dll=$(WinSysPath)
+D:\Program Files\InstallShield\InstallShield Professional 6.2\Objects\Crystal Reports 8\Data\Crystal\sscsdk80.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\P2smon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\CRViewer.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\shfolder.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\CpbOcx.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Vsflex7L.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\System\ADO\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\craxdrt.dll=$(WinSysPath)
+C:\Program Files\ListPro3\BIN\Flp32a30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\atl.dll=$(WinSysPathSysFile)
+C:\Program Files\Inppro30\BIN\Edt32x30.ocx=$(WinSysPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 2|DepFile]
+DepCabFile=Claim.CAB
+DepCabRun=Claim.INF
+
+[Package|Dep File 2|Package]
+PackageFolder=C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+ProjectFolder=C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest
+ServerSideCab=
+File1=C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1 CIP|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Claim Interest_2013\package110513C
+
+[Package|Standard Setup Package 1 CIP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1 CIP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1 CIP|Files Found]
+sscsdk80.dll=D:\Program Files\InstallShield\InstallShield Professional 6.2\Objects\Crystal Reports 8\Data\Crystal\sscsdk80.dll
+
+[Package|Standard Setup Package 1 CIP|Files Released]
+
+[Package|Standard Setup Package 1 CIP|Missing Dependency Information]
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=
+C:\WINDOWS\SYSTEM32\craxdrt.dll=
+C:\Program Files\Common Files\System\ADO\msado25.tlb=
+C:\WINDOWS\SYSTEM32\crviewer.dll=
+C:\WINDOWS\SYSTEM32\Vsflex7L.ocx=
+C:\WINDOWS\SYSTEM32\CpbOcx.ocx=
+C:\WINDOWS\SYSTEM32\shfolder.dll=
+C:\WINDOWS\system32\Flp32a30.ocx=
+C:\WINDOWS\system32\Edt32x30.ocx=
+C:\Windows\SysWOW64\Flp32a30.ocx=
+C:\Windows\SysWOW64\Edt32x30.ocx=
+C:\Windows\SysWOW64\CpbOcx.ocx=
+C:\Program Files (x86)\Seagate Software\Report Designer Component\craxddrt.dll=
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=
+C:\Windows\SysWOW64\CRViewer.dll=
+
+[Package|Standard Setup Package 1 CIP|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\Mscomctl.ocx=
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\Comdlg32.ocx=
+C:\Windows\SysWOW64\mscomct2.ocx=
+C:\Windows\SysWOW64\Msflxgrd.ocx=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|Standard Setup Package 1 CIP|Files Added]
+C:\Claim Interest_2013\Claim InterestN\CustomClaimPayment_cr8.rpt=
+C:\Claim Interest_2013\Claim InterestN\DataIntegrityIssues_cr8.rpt=
+C:\Claim Interest_2013\Claim InterestN\Individual_CR8.rpt=
+C:\Claim Interest_2013\Claim InterestN\StateInterest_cr8.rpt=
+
+[Package|Standard Setup Package 1 CIP|Files Removed]
+c:\windows\system32\shfolder.dll=
+c:\windows\system32\atl.dll=
+c:\windows\syswow64\msvcrt.dll=
+c:\windows\syswow64\scrrun.dll=
+
+[Package|Standard Setup Package 1 CIP|Files In Project]
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM32\shfolder.dll=No
+C:\WINDOWS\SYSTEM32\craxdrt.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\vb6stkit.dll=Yes
+C:\Claim Interest_2013\Claim InterestN\Claims310.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\CRViewer.dll=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=Yes
+C:\Windows\SysWOW64\scrrun.dll=No
+C:\Windows\SysWOW64\msvcrt.dll=No
+C:\Program Files (x86)\Seagate Software\Report Designer Component\craxddrt.dll=Yes
+C:\Windows\SysWOW64\Msflxgrd.ocx=Yes
+C:\Windows\SysWOW64\mscomct2.ocx=Yes
+C:\Windows\SysWOW64\CpbOcx.ocx=Yes
+C:\Windows\SysWOW64\Comdlg32.ocx=Yes
+C:\Windows\SysWOW64\Edt32x30.ocx=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\ListPro3\BIN\Flp32a30.ocx=Yes
+C:\Windows\System32\atl.dll=No
+C:\Claim Interest_2013\Claim InterestN\CustomClaimPayment_cr8.rpt=Yes
+C:\Claim Interest_2013\Claim InterestN\DataIntegrityIssues_cr8.rpt=Yes
+C:\Claim Interest_2013\Claim InterestN\Individual_CR8.rpt=Yes
+C:\Claim Interest_2013\Claim InterestN\StateInterest_cr8.rpt=Yes
+
+[Package|Standard Setup Package 1 CIP|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1 CIP|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1 CIP|Install Locations]
+K:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Program Files\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\Implode.dll=$(AppPath)
+C:\WINNT\SYSTEM32\Crpaig80.dll=$(WinSysPath)
+D:\Program Files\InstallShield\InstallShield Professional 6.2\Objects\Crystal Reports 8\Data\Crystal\sscsdk80.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\P2smon.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\CRViewer.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\DesktopTechnology\Deploy\AppSource\ClaimsInterest\Claim.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\shfolder.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\CpbOcx.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Vsflex7L.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\System\ADO\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\craxdrt.dll=$(WinSysPath)
+C:\Program Files\ListPro3\BIN\Flp32a30.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\atl.dll=$(WinSysPathSysFile)
+C:\Program Files\Inppro30\BIN\Edt32x30.ocx=$(WinSysPath)
+C:\Documents and Settings\k265\My Documents\Claim Interest_2013\Claim InterestN\Claims310.exe=$(AppPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Edt32x30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Flp32a30.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\vb6stkit.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Claim Interest_2013\Claim InterestN\Claims310.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\CRViewer.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Seagate Software\Report Designer Component\craxddrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\Msflxgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\mscomct2.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CpbOcx.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\Comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\Edt32x30.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\Flp32a30.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Claim Interest_2013\Claim InterestN\CustomClaimPayment_cr8.rpt=$(AppPath)
+C:\Claim Interest_2013\Claim InterestN\DataIntegrityIssues_cr8.rpt=$(AppPath)
+C:\Claim Interest_2013\Claim InterestN\Individual_CR8.rpt=$(AppPath)
+C:\Claim Interest_2013\Claim InterestN\StateInterest_cr8.rpt=$(AppPath)
+
+[Package|Standard Setup Package 1 CIP|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\k265\My Documents\Claim Interest_2013\Claim InterestN\Claims310.exe=No
+C:\Claim Interest_2013\Claim InterestN\Claims310.exe=No
+C:\Claim Interest_2013\Claim InterestN\CustomClaimPayment_cr8.rpt=No
+C:\Claim Interest_2013\Claim InterestN\DataIntegrityIssues_cr8.rpt=No
+C:\Claim Interest_2013\Claim InterestN\Individual_CR8.rpt=No
+C:\Claim Interest_2013\Claim InterestN\StateInterest_cr8.rpt=No
+
+[Package|Standard Setup Package 1 CIP|DepFile]
+DepCabFile=Claim.CAB
+DepCabRun=Claim.INF
+
+[Package|Standard Setup Package 1 CIP|Distribution]
+Type=single
+Size=
+Title=Claims Interest 3.1.0
+
+[Package|Standard Setup Package 1 CIP|IconGroups]
+Group0=Claims Interest 3.1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1 CIP|Claims Interest 3.1.0]
+Icon1=Claims310.exe
+Title1=Claims Interest 3.1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1 CIP|Package]
+PackageFolder=C:\Claim Interest_2013\package110513C
+ProjectFolder=C:\Claim Interest_2013\Claim InterestN
+ServerSideCab=
+File1=C:\Claim Interest_2013\package110513C\setup.exe
+File2=C:\Claim Interest_2013\package110513C\Setup.Lst
+File3=C:\Claim Interest_2013\package110513C\Claims310.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

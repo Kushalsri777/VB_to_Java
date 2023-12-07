@@ -1,0 +1,1 @@
+Use the "logo block - BW 640.tif" graphics file on Crystal Reports, scaled to 30% width and 30% height.

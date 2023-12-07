@@ -1,0 +1,48 @@
+[Description]
+Description=Compiles the project and runs it.<vbCrLf><vbCrLf>After execution, you may run the VB Watch Profiler which will analyze the session and computes :<vbCrLf>- time spent in each procedure / line (total time + average time)<vbCrLf>- coverage rate for each procedure / module
+[Action Plan]
+EXTERNAL=-1
+EXTERNALSAVESOURCE=-1
+EXTERNALSAVESOURCEDIR=<Project>\
+EXTERNALZIP=0
+EXTERNALZIPFILE=<Project>\
+optEXTERNALAFTERPROCESS=3
+optEXTERNALCOMPILEDESTINATION=1
+EXTERNALCOMPILEDESTINATIONSPECIFICDIR=C:\
+optCOMPILEMODE=0
+EXTERNALCOMPILERUN=-1
+optCURRENTAFTERPROCESS=0
+CURRENTCOMPILERUN=0
+[Settings Plan]
+ERRORHANDLER=0
+LOCALTEMPLATE=0
+GLOBALTEMPLATE=None
+LINENUMBERS=0
+PRESERVELINENUMBERS=0
+DUMP=0
+DUMPLOCAL=0
+DUMPMODULE=0
+DUMPGLOBAL=0
+DEBUGGER=0
+TRACEPROC=0
+TRACEPARAMETERS=0
+TRACELINES=0
+INSTANCECOUNT=0
+DEBUGPRINT=0
+REMOVEDEBUGPRINT=0
+PROFILER=-1
+PROFILEPROC=-1
+PROFILELINE=-1
+BACKUP=0
+OPTIONSTEMPLATE=0
+[Profiler Sessions]
+2.4.2 4/15/2003 7:44:22 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 11:23:44 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 11:35:51 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 11:37:10 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 11:49:56 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 12:55:13 PM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/15/2003 1:10:04 PM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/16/2003 7:35:28 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/16/2003 7:43:23 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl
+2.4.2 4/16/2003 7:47:39 AM=D:\ClaimsInterest\ClaimsInterest 2.4.2\vbwClaims24.exe_1.pfl

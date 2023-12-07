@@ -1,0 +1,41 @@
+Hi Magda,
+ 
+Here are the details I used to install InputPro and ListPro.
+ 
+Input Pro
+Product Key EDT.03.00.11-01-0200101043864804
+Serial# 600A0590FR004040
+List Pro
+Product Key FLP.03.00.06-01-0700101039015460
+Serial# 000A0220FV006060
+ 
+Jenny Boyle has licenses for these also I think.
+I had issues with the package with InputPro only. The vendor gave the key to enter and I provided this
+to you. I don't think it is for one PC only, but I don't know.
+
+---------------
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Windows\System32>cd ..
+
+C:\Windows>cd syswow64
+
+C:\Windows\SysWOW64>regsvr32 edt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 edt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 edt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 /u edt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 dt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 dt32x30.ocx
+
+C:\Windows\SysWOW64>regsvr32 edt32x30.ocx
+
+C:\Windows\SysWOW64>
+
+-----------------

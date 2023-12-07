@@ -1,0 +1,30 @@
+
+; Dependency file for setup wizards.
+
+[Version]
+Version=3.0.0.39
+
+; Dependencies for EDT32X30.OCX
+
+; Default Dependencies ----------------------------------------------
+
+[EDT32X30.OCX]
+Dest=$(WinSysPath)
+Register=$(DLLSelfRegister)
+Version=3.0.0.39
+Uses1=atl.dll
+Uses2=oleaut32.dll
+Uses3=msvcrt.dll
+
+[atl.dll]
+Dest=$(WinSysPathSysFile)
+Register=$(DLLSelfRegister)
+Uses1=
+
+[oleaut32.dll]
+Dest=$(WinSysPathSysFile)
+Uses1=
+
+[msvcrt.dll]
+Dest=$(WinSysPathSysFile)
+Uses1=

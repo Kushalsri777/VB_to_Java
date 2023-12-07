@@ -1,0 +1,73 @@
+[Version]
+Version=2.4.0.0
+
+[Claim.exe <0009>]
+Dest=$(AppPath)
+Date=3/9/2003
+Time=16:37
+Version=2.4.0.0
+CABFilename=Claim.CAB
+CABINFFile=Claim.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=shfolder.dll
+Uses8=MSFLXGRD.OCX
+Uses9=MSCOMCTL.OCX
+Uses10=MSCOMCT2.OCX
+Uses11=CpbOcx.ocx
+Uses12=Vsflex7L.ocx
+Uses13=crviewer.dll
+Uses14=msmask32.ocx
+Uses15=Comdlg32.ocx
+Uses16=msado25.tlb
+Uses17=craxddt.dll
+Uses18=scrrun.dll
+Uses19=craxdrt.dll
+Uses20=Flp32a30.ocx
+Uses21=Edt32x30.ocx
+
+[shfolder.dll <0009>]
+Dest=$(WinSysPath)
+Date=8/29/2002
+Time=05:41
+Version=6.0.2800.1106
+
+[CpbOcx.ocx <0009>]
+Dest=$(WinSysPath)
+Date=3/15/2002
+Time=18:22
+Version=1.0.0.0
+
+[Vsflex7L.ocx <0009>]
+Dest=$(WinSysPath)
+Date=3/22/2002
+Time=15:40
+Version=7.0.1.151
+
+[crviewer.dll <0009>]
+Dest=$(WinSysPath)
+Date=2/18/2000
+Time=11:58
+Version=8.0.0.387
+
+[msado25.tlb <0009>]
+Dest=$(WinSysPath)
+Date=7/11/2002
+Time=22:47
+Version=2.71.9030.0
+
+[craxddt.dll <0009>]
+Dest=$(WinSysPath)
+Date=1/28/2000
+Time=15:16
+Version=8.0.0.371
+
+[craxdrt.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/5/2000
+Time=09:50
+Version=8.0.0.441

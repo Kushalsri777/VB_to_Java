@@ -1,0 +1,25 @@
+
+; Dependency file for setup wizards.
+
+[Version]
+Version=3.0.0.44
+
+; Dependencies for FLP32A30.OCX
+
+; Default Dependencies ----------------------------------------------
+
+[FLP32A30.OCX]
+Dest=$(WinSysPath)
+Register=$(DLLSelfRegister)
+Version=3.0.0.44
+Uses1=atl.dll
+Uses4=msvcrt.dll
+
+[atl.dll]
+Dest=$(WinSysPathSysFile)
+Register=$(DLLSelfRegister)
+Uses1=
+
+[msvcrt.dll]
+Dest=$(WinSysPathSysFile)
+Uses1=
